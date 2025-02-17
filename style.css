@@ -4,6 +4,8 @@ body {
     padding: 0;
     text-align: center;
 }
+html[scroll-behavior: smooth:
+]
 header {
     background: #333;
     color: green;
@@ -25,4 +27,4 @@ footer {
     bottom: 0;
     width: 100%;
 }
-измрнен цвет фона
+
